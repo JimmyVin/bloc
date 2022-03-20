@@ -1,0 +1,21 @@
+.celeste{
+    background-color: aquamarine;
+}
+
+.verde{
+    background-color: lightgreen;
+}
+
+.rojo{
+    background-color: lightsalmon;
+}
+
+table{
+    background-color: white;
+    margin: 10% auto;
+    box-shadow: 0px 0px 20px 20px crimson;
+}
+
+body{
+    background-color: black;
+}

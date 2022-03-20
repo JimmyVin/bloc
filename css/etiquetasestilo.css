@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+article{
+    background-color: lightseagreen;
+    margin: 0 25%;
+}
